@@ -16,4 +16,5 @@ Fase 8:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8e2ae5be-871d-4792-adee-01edf9767c23" />
 Fase 9:
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b93ff81e-a1db-4d83-b728-10058d8267bf" />
-Anexos: 
+Anexo: 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ebfda426-161f-4e90-a0e2-781aec63616f" />
